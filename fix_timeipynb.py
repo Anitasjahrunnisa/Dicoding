@@ -100,5 +100,3 @@ plt.title('Loss ')
 plt.ylabel('loss')
 plt.xlabel('epoch')
 plt.show()
-
-"""Nama: Anita Sjahrunnisa , Username: arisa98 , Email: arisanita98@gmail.com"""
