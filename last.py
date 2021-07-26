@@ -239,4 +239,3 @@ with open('Suit.tflite', 'wb') as f:
 !ls -la | grep 'Suit'
 
 """
-Nama: Anita Sjahrunnisa , Username: arisa98 , Email: arisanita98@gmail.com """
